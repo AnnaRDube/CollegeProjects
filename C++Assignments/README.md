@@ -1,0 +1,1 @@
+These are some of the C++ assignments that I completed in Computer Science I and Computer Science II.
