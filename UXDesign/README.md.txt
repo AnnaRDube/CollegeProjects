@@ -1,0 +1,1 @@
+In the UX Design course, I designed and prototyped a smart fridge. For the final project, I created one case study documenting a current smart fridge on the market and another case study documenting my smart fridge design.
