@@ -1,0 +1,1 @@
+This is the project I completed in the Database Systems course. First I designed the database using diagrams and tables. Then I created the database and ran queries against the database to test it. I also created a simple web spplication to connect to and update the database.
