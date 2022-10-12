@@ -1,0 +1,1 @@
+These are assignments that I completed in the Visual Application Design course using C# and the .NET Framework.
