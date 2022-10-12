@@ -1,0 +1,99 @@
+/* Anna Dube */
+html {
+    background-color: rgb(64, 0, 10);
+}
+body {
+    margin-top: 0;
+    font-family: Arial;
+    width: 760px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid black;
+}
+header {
+    margin: 0;
+	padding: .5em 2em;
+	background-color: rgb(192, 192, 192);
+}
+header h1 {
+    margin: 0;
+    padding: .5em 0;
+    color: black;
+}
+main {
+	padding: .5em 2em;
+    margin: 0;
+}
+section {
+    float: left;
+	width: 100%;
+    padding-bottom: 1.5em;
+}
+footer {
+	padding: .5em 2em;
+	clear: both;
+    margin-top: 1em;
+	background-color: rgb(192, 192, 192);
+}
+footer p {
+    text-align: center;
+    font-size: 80%;
+    margin: 1em 0;
+}
+h1, h2 {
+    color: rgb(136, 0, 21);
+}
+form {
+    margin: 0;
+}
+br {
+    clear: left;
+}
+input[type="submit"]{
+	border-radius: 4px;
+	background-color: rgb(64, 0, 10);
+	color: white;
+	width: 20%;
+	height: 100%;
+	font-size: 16px;
+}
+input[type="submit"]:hover{background-color: rgb(212, 0, 33);}
+.submissionPage p {
+	clear: both;
+	float:left;
+	margin: .5em;
+	width: 30%;
+	height: 30%;
+	color: white;
+	border: 1px solid black;
+	box-shadow: 0 0 5px 5px black;
+}
+#incorrect{
+	background-color: rgb(204, 24, 32);
+	border: 1px solid rgb(219, 26, 34);
+	box-shadow: 0 0 5px 5px rgb(219, 26, 34);
+}
+#correct{
+	background-color: rgb(55, 125, 34);
+	border: 1px solid green;
+	box-shadow: 0 0 5px 5px green;
+}
+#total{
+	background-color: rgb(0, 0, 224);
+	border: 1px solid blue;
+	box-shadow: 0 0 5px 5px blue;
+}
+a{
+	color: rgb(136, 0, 21);
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover{color: rgb(237, 0, 37); font-size: 1.25em;}
+td{
+	padding: 5px;
+	padding-right: 10px;
+	border: 2px dotted rgb(240, 135, 132);
+}
+#hide{
+	display: none;
+}
