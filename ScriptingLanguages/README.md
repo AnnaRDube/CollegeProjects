@@ -1,0 +1,1 @@
+These are some of my assignments from the Scripting Languages course. We wrote several programs in Bash, PowerShell, Perl, and Python.
